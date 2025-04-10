@@ -35,7 +35,7 @@ var _fgq = [];
 					"multiplayer_local": true,
 					"firebase": true,
 					"leaderboard": 0,
-					"multiplayer": 0,
+					"multiplayer": 1,
 					"fullscreen": 0,
 					"screenshot": 0,
 					"payment": 0,
